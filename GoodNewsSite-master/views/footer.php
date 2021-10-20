@@ -6,6 +6,7 @@
 			<!-- ! adresse email non cryptée : spam possible -->
 		<a href="mailto:<?php echo EMAIL ?>"><?php echo EMAIL ?></a>
 		<p>Bonjour de la part de Soulaymane</p>
+            <p>Bonjour de la part de Loïc</p>
 			<p id="copyright">Mise en page d'après
 				<a href="http://www.alsacreations.com/tutoriels/">Alsacréations</a>
 			</p>
